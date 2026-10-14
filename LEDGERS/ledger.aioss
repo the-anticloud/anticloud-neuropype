@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: BRAIN_COMPUTER_INTERFACE/NEUROPYPE
+# records: 5
+# head: cfdcad2cfaa7950c3d09b2cd7c563d2810f1ac2b0b48038ee2c94bc6dacd1ca6
+{"digest": "21ef5e7bba7a3400c803dad9d0901ba988557fc0bce9f30a5d86567553ddd71d", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "e383723305cfca0b863b6de9cadee2cecf80e1eaa7b399ca631b2c469b75332a", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:52:28Z"}
+{"digest": "99b21e74e822d7b27d9891a773c8570bb0dc00bd499824df8d569a73d8205a3f", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "f8eb1846b71e610f720c13ec337f4ac624dc2368a80425708799f0e9c74067ae", "prev": "21ef5e7bba7a3400c803dad9d0901ba988557fc0bce9f30a5d86567553ddd71d", "seq": 1, "ts": "2026-10-09T05:52:28Z"}
+{"digest": "6ae8066731ad45741cefe7ef6d921b8ea40ea2253070ace60d67f03be9d166ac", "kind": "readme", "path": "README.md", "payload_sha3": "730e3d4b0eb7cd21def1aede3497fe2b2e678d2ebe1ea50a40c0e39ab0aefec2", "prev": "99b21e74e822d7b27d9891a773c8570bb0dc00bd499824df8d569a73d8205a3f", "seq": 2, "ts": "2026-10-09T05:52:28Z"}
+{"digest": "e5d61962fbf4066d4d9d2040c30bb88000f1a27a7ede4e193e08383dc2b0045c", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "752a82917104c8422b9f0eb38d3e8c2edd79df7dde5d7391eb4057b54bd07889", "prev": "6ae8066731ad45741cefe7ef6d921b8ea40ea2253070ace60d67f03be9d166ac", "seq": 3, "ts": "2026-10-09T05:52:28Z"}
+{"digest": "cfdcad2cfaa7950c3d09b2cd7c563d2810f1ac2b0b48038ee2c94bc6dacd1ca6", "kind": "notice", "path": "NOTICE", "payload_sha3": "6a3bd1d2d86ff460d74a7710af4735496fb60ddcc21c079d20dd6dd59099cb94", "prev": "e5d61962fbf4066d4d9d2040c30bb88000f1a27a7ede4e193e08383dc2b0045c", "seq": 4, "ts": "2026-10-09T05:52:28Z"}
