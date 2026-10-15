@@ -1,0 +1,67 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:56f67e5f-cda0-52e1-a82b-87fb4b3136db",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-12T06:25:54Z",
+    "component": {
+      "type": "application",
+      "name": "NEUROPYPE",
+      "version": "dc018ad5b7d5",
+      "bom-ref": "pkg:generic/anticloud/NEUROPYPE@dc018ad5b7d5",
+      "purl": "pkg:generic/anticloud/NEUROPYPE@dc018ad5b7d5",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "dc018ad5b7d5c37740a58914e269f8996ec6eb6e"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": ""
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "mne",
+      "version": ">=1.13.0",
+      "purl": "pkg:pypi/mne@1.13.0",
+      "bom-ref": "pypi/mne@>=1.13.0"
+    },
+    {
+      "type": "library",
+      "name": "numpy",
+      "version": ">=1.20.2",
+      "purl": "pkg:pypi/numpy@1.20.2",
+      "bom-ref": "pypi/numpy@>=1.20.2"
+    },
+    {
+      "type": "library",
+      "name": "psutil",
+      "version": ">=5.4.3",
+      "purl": "pkg:pypi/psutil@5.4.3",
+      "bom-ref": "pypi/psutil@>=5.4.3"
+    },
+    {
+      "type": "library",
+      "name": "scipy",
+      "version": ">=1.6.3",
+      "purl": "pkg:pypi/scipy@1.6.3",
+      "bom-ref": "pypi/scipy@>=1.6.3"
+    }
+  ]
+}
